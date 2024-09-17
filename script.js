@@ -5,7 +5,7 @@ let input2 = prompt("Enter the second number:");
 	const no1 = Number(input1)
 	const no2 = Number(input2)
 
-	if(isNaN(no1) ||)isNaN(no2){
+	if(isNaN(no1) || isNaN(no2)){
 		alert("Invalid input. Please enter a valid number.")
 	}
 	else{
